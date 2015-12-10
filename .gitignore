@@ -1,17 +1,43 @@
-# User-specific files
-[Pp]roject/*.suo
-[Pp]roject/*.user
-[Pp]roject/*.userosscache
-[Pp]roject/*.sln.docstates
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# Build results
-[Pp]roject/[Dd]ebug/
-[Pp]roject/[Dd]ebugPublic/
-[Pp]roject/[Rr]elease/
-[Pp]roject/[Rr]eleases/
-[Pp]roject/x64/
-[Pp]roject/x86/
-[Pp]roject/build
-[Pp]roject/bld
-[Pp]roject/[Bb]in/
-[Pp]roject/[Oo]bj/
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk

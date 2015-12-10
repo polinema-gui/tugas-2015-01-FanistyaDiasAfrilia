@@ -1,0 +1,25 @@
+C:\Users\asus x450j\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\asus x450j\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\asus x450j\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\asus x450j\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\asus x450j\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\asus x450j\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\asus x450j\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\asus x450j\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\asus x450j\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\asus x450j\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Tugas.vbproj.GenerateResource.Cache
+C:\Users\Fanistya\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Fanistya\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Fanistya\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Fanistya\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Fanistya\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Fanistya\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Fanistya\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Fanistya\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Tugas.vbprojResolveAssemblyReference.cache
+C:\Users\Fanistya\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\Fanistya\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\Fanistya\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Tugas.vbproj.GenerateResource.Cache
+F:\Kuliah\Semester 3\Pemrograman GUI (Pak Dian)\tugas\1 Warna\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+F:\Kuliah\Semester 3\Pemrograman GUI (Pak Dian)\tugas\1 Warna\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+F:\Kuliah\Semester 3\Pemrograman GUI (Pak Dian)\tugas\1 Warna\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+F:\Kuliah\Semester 3\Pemrograman GUI (Pak Dian)\tugas\1 Warna\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
